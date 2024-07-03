@@ -1,0 +1,13 @@
+We got the description of our projecct froom the followinng pieces of the articles. They are as follows:-
+
+Barabási, A. L. (2016). Network science. Cambridge university press.
+
+Freeman, L. C. (1979). Centrality in social networks: Conceptual clarification. Social networks, 1(3), 215-239.
+
+Leskovec, J., & Krevl, A. (2014). SNAP Datasets: Stanford large network dataset collection. Available at http://snap.stanford.edu/data.
+
+NetworkX documentation. (n.d.). Retrieved from https://networkx.github.io/documentation/stable/
+
+Al-Rawi, A., & Al-Rawi, A. (2019). Social Network Analysis Using Graph Theory. Journal of Computer Science, 15(3), 303-312.
+
+Newman, M. E. J. (2018). Networks, 2nd Edition. Oxford University Press.
